@@ -1,0 +1,12 @@
+C:\Users\ADMIN\source\repos\ATM\ATM\obj\Debug\ATM.csprojAssemblyReference.cache
+C:\Users\ADMIN\source\repos\ATM\ATM\obj\Debug\ATM.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\ATM\ATM\bin\Debug\ATM.exe.config
+C:\Users\ADMIN\source\repos\ATM\ATM\bin\Debug\ATM.exe
+C:\Users\ADMIN\source\repos\ATM\ATM\bin\Debug\ATM.pdb
+C:\Users\ADMIN\source\repos\ATM\ATM\bin\Debug\AppLayer.dll
+C:\Users\ADMIN\source\repos\ATM\ATM\bin\Debug\DataLayer.dll
+C:\Users\ADMIN\source\repos\ATM\ATM\bin\Debug\AppLayer.pdb
+C:\Users\ADMIN\source\repos\ATM\ATM\bin\Debug\DataLayer.pdb
+C:\Users\ADMIN\source\repos\ATM\ATM\obj\Debug\ATM.csproj.CopyComplete
+C:\Users\ADMIN\source\repos\ATM\ATM\obj\Debug\ATM.exe
+C:\Users\ADMIN\source\repos\ATM\ATM\obj\Debug\ATM.pdb

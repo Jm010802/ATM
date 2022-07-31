@@ -1,0 +1,9 @@
+C:\Users\ADMIN\source\repos\ATM\AppLayer\obj\Debug\netstandard2.0\AppLayer.csprojAssemblyReference.cache
+C:\Users\ADMIN\source\repos\ATM\AppLayer\obj\Debug\netstandard2.0\AppLayer.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\ATM\AppLayer\obj\Debug\netstandard2.0\AppLayer.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\ATM\AppLayer\obj\Debug\netstandard2.0\AppLayer.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\ATM\AppLayer\bin\Debug\netstandard2.0\AppLayer.deps.json
+C:\Users\ADMIN\source\repos\ATM\AppLayer\bin\Debug\netstandard2.0\AppLayer.dll
+C:\Users\ADMIN\source\repos\ATM\AppLayer\bin\Debug\netstandard2.0\AppLayer.pdb
+C:\Users\ADMIN\source\repos\ATM\AppLayer\obj\Debug\netstandard2.0\AppLayer.dll
+C:\Users\ADMIN\source\repos\ATM\AppLayer\obj\Debug\netstandard2.0\AppLayer.pdb
